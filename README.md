@@ -22,15 +22,6 @@ curl -s https://raw.githubusercontent.com/cthelegend/script-chrome/refs/heads/ma
 ```bash
 xfce4-session-logout --reboot
 ```
-
----
-
-## <img src="https://cdn.simpleicons.org/testinglibrary/ffffff" width="18"/> Objetivo
-
-* <img src="https://cdn.simpleicons.org/pytest/ffffff" width="16"/> Testar estabilidade do sistema
-* <img src="https://cdn.simpleicons.org/grafana/ffffff" width="16"/> Avaliar desempenho sob carga
-* <img src="https://cdn.simpleicons.org/xfce/ffffff" width="16"/> Simular travamentos 
-
 ---
 
 ## <img src="https://cdn.simpleicons.org/gear/ffffff" width="18"/> Requisitos
