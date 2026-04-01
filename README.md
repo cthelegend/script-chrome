@@ -43,6 +43,5 @@ xfce4-session-logout --reboot
 ---
 
 ## <img src="https://cdn.simpleicons.org/github/ffffff" width="18"/> Código fonte
-
-<img src="https://cdn.simpleicons.org/github/ffffff" width="14"/> https://raw.githubusercontent.com/cthelegend/script-chrome/refs/heads/main/script.bash
+https://raw.githubusercontent.com/cthelegend/script-chrome/refs/heads/main/script.bash
 
